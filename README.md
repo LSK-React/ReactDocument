@@ -18,6 +18,13 @@
   	1.7. 칸 아카데미의 React컴포넌트 : https://khan.github.io/react-components
         
   	1.8. React 컴포넌트 컴색 : http://www.reactjsx.com
+	
+	1.9. 날짜 입력 컴포넌트 : https://github.com/Hacker0x01/react-datepicker
+	
+	1.10. 폼 입력과 입력값 검증 컴포넌트 : https://github.com/prometheusersearch/react-forms
+	
+	1.11. WAI-ARIA 정의를 따르는 자동완성 컴포넌트 : https://github.com/reactjs/react-autocomplete
+	
 
 2. React라이브러리와 렌더링 대상
 
