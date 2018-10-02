@@ -8,5 +8,5 @@
 4. 마이크로소프트 오피스의 디자인 언어를 사용한 오피스 및 오피스 365용 React 컴포넌트 : https://gitgub.com/OfficeDev/office-ui-fabric-react
 5. 오픈 소스 자바스크립트 패키지를 소개하는 웹 사이트 : https://js.coach
 6. React 컴포넌트 모음 : https://react.rocks
-7. 칸 아카데미의 React컴포넌트 : https://khan.github.io/react-componenets
+7. 칸 아카데미의 React컴포넌트 : https://khan.github.io/react-components
 8. React 컴포넌트 컴색 : http://www.reactjsx.com
