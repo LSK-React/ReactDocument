@@ -21,7 +21,7 @@
 	
 	1.9. 날짜 입력 컴포넌트 : https://github.com/Hacker0x01/react-datepicker
 	
-	1.10. 폼 입력과 입력값 검증 컴포넌트 : https://github.com/prometheusersearch/react-forms
+	1.10. 폼 입력과 입력값 검증 컴포넌트 : https://github.com/prometheusresearch/react-forms
 	
 	1.11. WAI-ARIA 정의를 따르는 자동완성 컴포넌트 : https://github.com/reactjs/react-autocomplete
 	
